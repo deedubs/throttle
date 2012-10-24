@@ -1,0 +1,12 @@
+{
+  "name": "throttle",
+  "repo": "deedubs/throttle",
+  "description": "Throttle function extracted from lodash",
+  "version": "0.0.1",
+  "keywords": ["throttle","lodash"],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
